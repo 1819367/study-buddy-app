@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Study Buddy</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Share+Tech&display=swap"
+    rel="stylesheet">
+  <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+
+<body>
+  <header class="site-header">
+    <h1>Study<span><img src="{{ url_for('static', filename='logo-v4.png' ) }}" alt="" class="logo"></span>Buddy</h1>
+  </header>
+  <main class="main-content">
+    <div class="chat-container">
+      <section class="chatbot-header">
+        <figure>
+          <img src="{{ url_for('static', filename='logo-v4.png' ) }}" alt="" class="logo">
+        </figure>
+        <h2>Study Buddy</h2>
+      </section>
+      <section class="messages">
+        {% for message in chat_history %}
+        <div class="message-role {{ 'user' if message.role == 'user' else '' }}">
+          {{ message.role.capitalize() }}
+        </div>
+        <div class="{{ 'user-message' if message.role == 'user' else 'assistant-message'}}">
+          {{ message.content }}
+        </div>
+        {% endfor %}
+      </section>
+      <section class="message-input-container">
+        <form action="/chat" method="post">
+          <textarea name="message" placeholder="Ask anything..." autofocus required></textarea>
+          <div class="button-group">
+            <!-- todo add text but then hide it. There's a class in the css for .hidden -->
+            <button type="submit" id="send-btn"><img src="{{ url_for('static', filename='send-icon.png' ) }}" alt="Send prompt" class="send-icon"><span class="visually-hidden">Send prompt</span></button>
+          </div>
+        </form>
+      </section>
+    </div>
+  </main>
+
+</body>
+
+</html>

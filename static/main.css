@@ -1,0 +1,315 @@
+/* These are CSS variables. They allow you to change the theme of the chatbot by replacing the values. Read more about them here: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties */
+:root {
+  --header-background: #3352A1;
+  --header-text-color: #FFFFFF;
+  --default-background: #FFFFFF;
+  --default-text-color: #000000;
+  --user-block: #FFEBFF;
+  --assistant-block: #FFFFFF;
+  --borders: 1px solid #000000;
+  --border-input: 3px solid #2B6DEE;
+  --border-radius: 15px;
+  --placeholder-text-accents: #9E9C9C;
+  --header-text-font-family: "Share Tech", sans-serif;
+  --body-text-font-family: "Nunito", sans-serif;
+
+}
+
+body,
+input {
+  font-size: 1rem;
+  line-height: 24px;
+  color: var(--default-text-color);
+  font-family: var(--body-text-font-family);
+  background-color: var(--default-background);
+}
+
+body {
+  display: flex;
+  flex-direction: column; 
+  align-items: stretch; 
+  justify-content: center; 
+  width: 100%; 
+  margin: 0; 
+  padding: 0; 
+  overflow: hidden;
+}
+
+.site-header {
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  z-index: 1000;
+}
+
+.site-header h1 {
+  margin: 50px 0;
+  font-size: 7rem;
+  padding-bottom: 20px;
+}
+
+.site-header span {
+ margin: 20px;
+}
+
+.site-header .logo {
+  width: 100px;
+}
+
+.chat-container {
+  max-width: 600px;
+  width: 70%;
+  padding: 0 20px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  overflow-y: auto;
+  box-sizing: border-box;
+  justify-content: space-between;
+  border: var(--borders);
+  border-radius: var(--border-radius);
+}
+
+.chatbot-header {
+  background-color: var(--header-background);
+  margin-left: -20px;
+  margin-right: -20px;
+  display: flex;
+  align-items: center;
+}
+
+.chatbot-header figure {
+  margin: 20px;
+  width: 100px;
+}
+
+.chatbot-header .logo {
+  width: 100%;
+}
+
+.chatbot-header h2 {
+  font-size: 2.5rem;
+  color: var(--header-text-color);
+}
+
+.user-message,
+.assistant-message {
+  padding: 12px 16px;
+  margin-bottom: 8px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.user-message {
+  align-self: flex-end !important;
+  background-color: var(--user-block);
+  border-radius: var(--border-radius);
+  position: relative;
+
+}
+
+.user-message:after {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: auto;
+  right: 20px;
+  bottom: -20px;
+  border: 12px solid;
+  border-color: var(--user-block) var(--user-block) transparent transparent;
+}
+
+.assistant-message {
+  align-self: flex-start !important;
+  background-color: var(--assistant-block);
+  border: var(--borders);
+  border-radius: var(--border-radius);
+  position: relative;
+}
+
+.assistant-message:before {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: 20px;
+  bottom: -20px;
+  border: 10px solid;
+  border-color: black transparent transparent black;
+}
+
+.assistant-message:after {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: 21px;
+  bottom: -17px;
+  border: 10px solid;
+  border-color: white transparent transparent white;
+}
+
+.message-input-container {
+  position: relative;
+  /* Match the chat container's width */
+  width: 100%; 
+  background: #fff;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  z-index: 100;
+  margin-top: 20px;
+  border: var(--border-input);
+  border-radius: var(--border-radius);
+}
+
+.message-input-container form {
+  display: flex; 
+  width: 97%;
+  padding: 10px 0;
+}
+
+form {
+  max-width: 600px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+textarea {
+  width: calc(100% - 40px);
+  resize: vertical;
+  overflow: auto;
+  flex-grow: 1;
+  padding: 20px 0 20px 20px;
+  height: 100px;
+  box-sizing: border-box; 
+  border: none;
+  font-family: var(--body-text-font-family);
+  font-size: 1rem;
+}
+
+input[type="submit"],
+input[type="button"] {
+  cursor: pointer;
+  flex: 1;
+  margin: 0 2px;
+}
+
+.button-group {
+  align-self: flex-end;
+}
+
+#send-btn {
+  width: 40px;
+  height: 40px;
+  background-color: var(--default-background);
+  border: none;
+}
+
+.send-icon {
+  width: 20px;
+}
+
+input[type="submit"] {
+  flex-grow: 4;
+}
+
+input[type="button"] {
+  flex-grow: 1;
+  background-color: #f44336;
+}
+
+input[type="text"] {
+  padding: 12px 16px;
+  border: 1px solid #10a37f;
+  border-radius: 4px;
+  margin-bottom: 24px;
+}
+
+::placeholder {
+  color: var(--placeholder-text-accents);
+  font-size: 1.25rem;
+  opacity: 1;
+}
+
+.typing-indicator-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.typing-indicator {
+  margin-left: 4px;
+  font-size: 1rem;
+}
+
+.typing-indicator::after {
+  content: "•";
+  animation: typing 1.5s infinite step-start;
+}
+
+@keyframes typing {
+  0%,
+  100% {
+    content: "•";
+  }
+  33% {
+    content: "••";
+  }
+  66% {
+    content: "•••";
+  }
+}
+
+.message-role {
+  align-self: flex-start;
+  margin-top: 20px;
+  margin-bottom: 4px;
+}
+
+.message-role.user {
+  align-self: flex-end;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: row; 
+  /* Adjust height based on header height */
+  height: 75vh; 
+  /* Allow scrolling within this container */
+  overflow: auto; 
+  align-items: stretch;
+  justify-content: center;
+}
+
+.messages {
+  flex-grow: 1; 
+  overflow-y: auto; 
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+.visually-hidden {
+  /* Hides the text for the submit button while making it accessible to screen readers */
+  display: inline-block;
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+
+
