@@ -31,10 +31,26 @@ chat_history = [
 ]
 
 # Start by getting the assistant_id and thread_id and returning them
-
+@app.route("/get_ids", methods=["GET"])
+# funtion that will get the assistant ID and thread ID
+def get_ids():
+    return jsonify(assistant_id=assistant_id, thread_id=thread_id)
 
 # If there is a message thread, send it to the the JavaScript using msg.role to render it to the UI. # # If there isn't a thread, return an error
-
+@app.route("/get_messages", methods=["GET"])
+def get_messages():
+    if thread_id != "":
+        thread_messages = client.beta.threads.messages.list(thread_id, order="asc")
+        messages = [
+            {
+               "role": msg.role,
+               "content": msg.content[0].text.value, 
+            }
+            for msg in thread_messages.data
+        ]
+        return jsonify(success=True, messages=messages)
+    else:
+        return jsonify(success=False, message="No thread ID")
 
 # Create the assistant
 # Use your assitant_id to retrieve your a assistant from the openai playground
