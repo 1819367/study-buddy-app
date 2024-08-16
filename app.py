@@ -67,7 +67,7 @@ def create_thread():
     # check if the thread exists before creating it
     if thread_id == "":
         thread = client.beta.threads.create()
-        thread_id = thread_id
+        thread_id = thread.id #corrected error
     else:
         # if one exists, retrieve the current thread ID
         thread = client.beta.threads.retrieve(thread_id)
@@ -86,8 +86,56 @@ def index():
     return render_template("index.html", chat_history=chat_history)
 
 # This is the POST route for the chat. Adds the chat to the chat_history array and sends it to the assistant playground on openai
- 
+@app.route("/chat", methods=["POST"])
+# the message the user added is passed to the assisgned variable (user_input)
+def chat():
+    user_input = request.json["message"]
     
+    # set up moderation for user's message
+    moderation_result = client.moderations.create(
+        input = user_input
+    )
+
+    while moderation_result.results[0].flagged == True:
+        moderation_result = client.moderations.create(
+            input = user_input
+        )
+        # append the message to the user to the chat_history
+        chat_history.append({"role": "assistant","content": user_input})
+        # return moderation message so that it prints out as a message in the chat window
+        return jsonify(success=True, message="Assistant: Sorry, your message violated our community guidelines.  Please try another prompt.")
+    
+    # if the user's message passes moderation, their message is appended to the chat_history
+    chat_history.append({"role": "user","content": user_input })
+
+    # Send the message to the assistant
+    message_params = {"thread_id": thread_id, "role": "user", "content": user_input}
+
+    # pass all the message params with the dictionary to the method that creates the thread of messages
+    thread_message = client.beta.threads.messages.create(**message_params)
+
+    # create the run and pass it the thread ID and assistant ID
+    run = client.beta.threads.runs.create(
+        thread_id = thread_id,
+        assistant_id = assistant_id
+    )
+
+    # time it takes to answer question, tjhe users sees a series of animated dots.
+    while run.status != "completed":
+        time.sleep(.5)
+        run = client.beta.threads.runs.retrieve(thread_id=thread_id, run_id=run.id)
+
+   # Message from the assistant is also added to the chat_history or an error message if something goes wrong
+    thread_messages = client.beta.threads.messages.list(thread_id)
+    message = thread_messages.data[0].content[0].text.value
+    if run.status in ["cancelled", "failed", "expired"]:
+        message = "An error has occured, please try again."
+    chat_history.append({"role": "assistant", "content": message})
+
+    # run the log_run function and return the messages to finish the route
+    log_run(run.status)
+    return jsonify(success=True, message=message)
+
 # Reset the chat
 @app.route("/reset", methods=["POST"])
 def reset_chat():
@@ -97,7 +145,6 @@ def reset_chat():
     thread_id = ""
     create_thread()
     return jsonify(success=True)
-
 
 # Create the assistants and thread when we first load the flask server
 @app.before_request

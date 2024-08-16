@@ -539,3 +539,1039 @@ INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-773-968
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-773-968
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-773-968
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-773-968
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-773-968
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-773-968
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 114-773-968
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/assistants/asst_XdYTmnWKrnciClxxeCx9nGFI "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/moderations "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:20:18] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:20:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:20:28] "[36mGET /static/send-icon.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:20:28] "[36mGET /static/logo-v4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:20:28] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:20:28] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:20:28] "GET /get_messages HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:20:28] "GET /get_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:21:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:21:55] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:21:55] "[36mGET /static/logo-v4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:21:55] "[36mGET /static/send-icon.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:21:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:21:55] "GET /get_messages HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:21:55] "GET /get_ids HTTP/1.1" 200 -
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/moderations "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:32] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:55] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:55] "[36mGET /static/send-icon.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:55] "[36mGET /static/logo-v4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:55] "GET /get_messages HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:55] "GET /get_ids HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:58] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:58] "[36mGET /static/logo-v4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:58] "[36mGET /static/send-icon.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:58] "GET /get_messages HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:22:58] "GET /get_ids HTTP/1.1" 200 -
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/moderations "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:23:45] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:24:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:24:42] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:24:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:24:42] "[36mGET /static/send-icon.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:24:42] "[36mGET /static/logo-v4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:24:42] "GET /get_messages HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:24:42] "GET /get_ids HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/assistants/asst_XdYTmnWKrnciClxxeCx9nGFI "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/moderations "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:28:32] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/assistants/asst_XdYTmnWKrnciClxxeCx9nGFI "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:30:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:30:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:30:20] "[36mGET /static/send-icon.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:30:20] "[36mGET /static/logo-v4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:30:20] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:30:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:30:20] "GET /get_messages HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:30:20] "GET /get_ids HTTP/1.1" 200 -
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/moderations "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:30:33] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/assistants/asst_XdYTmnWKrnciClxxeCx9nGFI "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:34:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:34:08] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:34:08] "[36mGET /static/logo-v4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:34:08] "[36mGET /static/send-icon.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:34:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:34:08] "GET /get_messages HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:34:08] "GET /get_ids HTTP/1.1" 200 -
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/moderations "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:34:25] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/assistants/asst_XdYTmnWKrnciClxxeCx9nGFI "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:37:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:37:49] "[36mGET /static/logo-v4.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:37:49] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:37:49] "[36mGET /static/send-icon.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:37:49] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:37:49] "GET /get_ids HTTP/1.1" 200 -
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/messages?order=asc "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:37:49] "GET /get_messages HTTP/1.1" 200 -
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/moderations "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/runs "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/runs/run_v2UV57JtCd1nbreU2aOUFVfh "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/runs/run_v2UV57JtCd1nbreU2aOUFVfh "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/runs/run_v2UV57JtCd1nbreU2aOUFVfh "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/runs/run_v2UV57JtCd1nbreU2aOUFVfh "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/runs/run_v2UV57JtCd1nbreU2aOUFVfh "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/runs/run_v2UV57JtCd1nbreU2aOUFVfh "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/runs/run_v2UV57JtCd1nbreU2aOUFVfh "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/runs/run_v2UV57JtCd1nbreU2aOUFVfh "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_2VnGc3m017VJpISfZUI8YP0B/messages "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:38:08] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/assistants/asst_XdYTmnWKrnciClxxeCx9nGFI "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/moderations "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads/thread_KDXTVPpP5I9xe1oLaJ5G9Obu/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads/thread_KDXTVPpP5I9xe1oLaJ5G9Obu/runs "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_KDXTVPpP5I9xe1oLaJ5G9Obu/runs/run_AQkq0S7ktfOBJ3QAlOleeQ8E "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_KDXTVPpP5I9xe1oLaJ5G9Obu/runs/run_AQkq0S7ktfOBJ3QAlOleeQ8E "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_KDXTVPpP5I9xe1oLaJ5G9Obu/runs/run_AQkq0S7ktfOBJ3QAlOleeQ8E "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_KDXTVPpP5I9xe1oLaJ5G9Obu/runs/run_AQkq0S7ktfOBJ3QAlOleeQ8E "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_KDXTVPpP5I9xe1oLaJ5G9Obu/runs/run_AQkq0S7ktfOBJ3QAlOleeQ8E "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_KDXTVPpP5I9xe1oLaJ5G9Obu/messages "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:42:39] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/assistants/asst_XdYTmnWKrnciClxxeCx9nGFI "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/moderations "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads/thread_pwvOua6vvhpl7NujBYZ3ICky/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads/thread_pwvOua6vvhpl7NujBYZ3ICky/runs "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_pwvOua6vvhpl7NujBYZ3ICky/runs/run_KQVRqlfXrgTdxf0wf9Ydrcno "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_pwvOua6vvhpl7NujBYZ3ICky/runs/run_KQVRqlfXrgTdxf0wf9Ydrcno "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_pwvOua6vvhpl7NujBYZ3ICky/runs/run_KQVRqlfXrgTdxf0wf9Ydrcno "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_pwvOua6vvhpl7NujBYZ3ICky/runs/run_KQVRqlfXrgTdxf0wf9Ydrcno "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_pwvOua6vvhpl7NujBYZ3ICky/runs/run_KQVRqlfXrgTdxf0wf9Ydrcno "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_pwvOua6vvhpl7NujBYZ3ICky/messages "HTTP/1.1 200 OK"
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2024 16:47:06] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\porte\\Desktop\\study-buddy-app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-573-005
